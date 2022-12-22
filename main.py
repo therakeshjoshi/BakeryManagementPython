@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <script defer src="https://pyscript.net/alpha/pyscript.js">       </script>
-<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <title>PyScript Hello World</title>
-</head>
-<body>
-    <py-script>
+
 
 import random                                # For random suggestions
 
@@ -1120,8 +1112,4 @@ def order():
         
 get_name()
                                                        
-                                                       
-                                                       
- </py-script>
-</body>
-</html>
+
